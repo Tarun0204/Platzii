@@ -65,7 +65,7 @@ const Cart = () => {
               alt="Order Success"
             />
             <h1>Your order has been placed successfully</h1>
-            <Link to="/" className="continue-shopping-btn">
+            <Link to="/" className="continue-shopping-btn1">
               Back to Shopping
             </Link>
           </div>
