@@ -39,6 +39,10 @@
   align-items: center;
 }
 
+.success-message h1 {
+  margin-left: 20px;
+}
+
 .cart-items-head {
   margin-top: 25px;
   text-align: center;
