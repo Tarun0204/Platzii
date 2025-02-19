@@ -17,6 +17,7 @@
   margin-top: 12px;
   text-decoration: none;
   color: #fff;
+  width: 11vw;
   border-radius: 6px;
 }
 
@@ -24,6 +25,9 @@
   .empty-img {
     width: 80%;
     height: 50vh;
+  }
+  .continue-shopping-btn {
+    width: 50vw;
   }
 }
 
@@ -213,3 +217,4 @@
     display: none;
   }
 }
+
